@@ -4,8 +4,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdeephandeephan@gmail.com)
 
 
-🎓 B.Tech Information Technology Student (2027)
-💻 Aspiring Full Stack Developer
+
+🎓 B.Tech Information Technology Student (2027).
+
+💻 Aspiring Full Stack Developer.
+
 🚀 Passionate about building scalable, real-time web applications.    
 🤝 Open to internships and collaborative learning opportunities.  
 🧠 A curious learner driven by clean code, UI/UX, and creative problem-solving.
