@@ -1,7 +1,9 @@
 👋 Hello, I'm Deephan M
 
 🎓 B.Tech Information Technology Student (2027)
+
 💻 Aspiring Full Stack Developer
+
 🚀 Passionate about building scalable, real-time web applications
 
 
