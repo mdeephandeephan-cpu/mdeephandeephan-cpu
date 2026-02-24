@@ -6,9 +6,13 @@
 
 
 🎓 B.Tech Information Technology Student (2027).
+
 💻 Aspiring Full Stack Developer.
+
 🚀 Passionate about building scalable, real-time web applications.    
+
 🤝 Open to internships and collaborative learning opportunities.  
+
 🧠 A curious learner driven by clean code, UI/UX, and creative problem-solving.
 
 ---
