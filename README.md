@@ -29,3 +29,6 @@ Database:
 PostgreSQL | MySQL | Firebase
 Tools:
 VS Code | Git | GitHub | Cloudinary | Socket.io
+
+### 📊 GitHub Stats
+![Deephan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdeephandeephan&show_icons=true&theme=dark)
